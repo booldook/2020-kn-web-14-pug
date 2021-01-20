@@ -1,0 +1,5 @@
+.wrapper {max-width: 1200px; margin: auto;}
+.header-wrapper {background-color: #222;}
+.header-wrapper .header-wrap {color: #f9f9f9; display: flex; padding: 1em 0;}
+.footer-wrapper {background-color: #222;}
+.footer-wrapper .footer-wrap {color: #f9f9f9; text-align: center; padding: 1em 0;}
